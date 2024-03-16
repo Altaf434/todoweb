@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Search from './search.js';
+import Search from 'search.js';
 import axios from 'axios';
 ReactDOM.render(
  <div>
