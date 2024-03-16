@@ -1,5 +1,5 @@
 import React ,{useState}from "react";
-import Note from './note';
+import Note from 'note';
 function Search()
 {    
      var[text,settext]=useState('');
